@@ -30,9 +30,6 @@ Typically, banks consider the 5 Cs of Credit while assessing any potential borro
 - Collateral
 - Conditions
 
-
-
-
 Here, while we may have been given a limited number of data points to work with, I expect the following things shall need to be looked at while predicting task completion (including existing parameters):
 - Debt level
 - Existing bank customer or not (recorded conduct and history with the bank) 
@@ -53,6 +50,9 @@ Here, while we may have been given a limited number of data points to work with,
 <img src = 'https://www.investopedia.com/thmb/xRigJ1OIF1_AyxtvDydgm_D0ASY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mortgage-preapproval-4776405_final2-f5fbd4d3d08d4aeeb04cc12fc718ae00.png'
      width = "750"/>
 
+<br>
+<br>
+
 
 <b>II. Brief Background</b>
 
@@ -72,11 +72,8 @@ It is of utmost importance for the banks to vet the applicants properly to ensur
 In this case, this predictor is beneficial for loan departments of banks, loan agents and loan recovery teams.
 <br>
 
-
-
+<br>
+<br>
 <b>III. Data Section</b>
 
 In this case, we have been given information of existing loan applicants along with details of those applicants whose loans have been rejected in the past. Based on this data, we need to predict whether loans of new applicants can be approved.
-
-
-
