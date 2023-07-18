@@ -55,7 +55,6 @@ Here, while we may have been given a limited number of data points to work with,
 
 
 <b>II. Brief Background</b>
-
 <br>
 1. What is the problem?<br>
 This part deals with loan approvals by a regional bank.
