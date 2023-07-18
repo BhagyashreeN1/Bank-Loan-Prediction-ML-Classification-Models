@@ -55,7 +55,8 @@ Here, while we may have been given a limited number of data points to work with,
 
 
 <b>II. Brief Background</b>
-
+<br>
+<br>
 1. What is the problem?<br>
 This part deals with loan approvals by a regional bank.
 We are trying to predict the eligibility of new loan applicants basis data of those applicants whose loans were approved or rejected.
